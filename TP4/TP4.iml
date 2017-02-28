@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-default.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-scalability.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-leveldb-replicating.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/conf/jetty.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-throughput.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-osgi.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-properties.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-invm.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-static-network-broker1.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-dynamic-network-broker2.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-dynamic-network-broker1.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/dispatcher-servlet.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-jndi.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-jdbc.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/camel.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-jdbc-performance.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-stomp.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-specjms.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-mqtt.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/conf/activemq.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-security.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-demo.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-query.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/activemq-static-network-broker2.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/examples/conf/jetty-demo.xml</file>
+          <file>file://$MODULE_DIR$/apache-activemq-5.14.0/webapps/admin/WEB-INF/webconsole-embedded.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="activemq-all-5.14.0" level="project" />
+  </component>
+</module>
